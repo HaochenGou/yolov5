@@ -9,4 +9,4 @@ names: ['non-cup']  # class names
 
 
 # Download script/URL (optional)
-download: https://github.com/ultralytics/yolov5/releases/download/v1.0/coco128.zip
+download: www.kaggle.com/dataset/bfb126833f38903a4cb0ee2ccdfbc1902629d890138fdc7cca4fdde7df39bdfa
