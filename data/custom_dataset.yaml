@@ -1,4 +1,4 @@
-path: ../datasets # dataset root dir
+path: dataset # dataset root dir
 train: images  # train images (relative to 'path') 128 images
 val: images # val images (relative to 'path') 128 images
 test:  # test images (optional)
@@ -7,6 +7,3 @@ test:  # test images (optional)
 nc: 1  # number of classes
 names: ['non-cup']  # class names
 
-
-# Download script/URL (optional)
-download: www.kaggle.com/dataset/bfb126833f38903a4cb0ee2ccdfbc1902629d890138fdc7cca4fdde7df39bdfa
